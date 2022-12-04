@@ -7,7 +7,7 @@ import org.junit.Test;
 public class MainTest {
 
     @Test
-    public void test_sum(){
+    public void testSum(){
         int sum = 4;
         Assertions.assertEquals(4,sum);
     }
